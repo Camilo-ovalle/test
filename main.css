@@ -1,0 +1,12 @@
+*{
+    background-color: #202020;
+    color: aliceblue;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
